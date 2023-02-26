@@ -10,6 +10,7 @@ int main(){
     for (int i=0;i<10;i++)
     {
         cout<<v[i]<<" ";
+        cout<<"xyz";
     }
     cout<<endl;
     //Push_back
